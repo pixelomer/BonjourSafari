@@ -1,6 +1,5 @@
 #import <UIKit/UIKit.h>
 #import <WebKit/WebKit.h>
-#import <dlfcn.h>
 #import <objc/runtime.h>
 
 #define NSLog(args...) NSLog(@"[BonjourSafari] "args)
