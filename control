@@ -1,0 +1,9 @@
+Package: com.pixelomer.bonjour-safari
+Name: Bonjour, Safari!
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Easily change your locale in Safari
+Maintainer: pixelomer
+Author: pixelomer
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
